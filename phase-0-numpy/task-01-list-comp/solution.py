@@ -23,7 +23,7 @@ def flatten_pairs(pairs):
 
 
 if __name__ == '__main__':
-    print(squares_of_evens(10))
-    print(label_temperatures([0, 1, 15, 16, 25, 26, 15.5]))
-    print(filter_long_words(["cat", "dog", "fish"], 3))
+    print(squares_of_evens(11))
+    print(label_temperatures([15, 16, 25, 26]))
+    print(filter_long_words(['hehe', 'aza', 'qweqw', 'aOa', 'zwein'], 3.5))
     print(flatten_pairs([(1, 2), (3, 4), (5, 6)]))
